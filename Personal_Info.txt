@@ -1,3 +1,4 @@
 Name : Minaxi
 Address : Khorlim
 DOB : 28/11/1998
+Education: MCA
