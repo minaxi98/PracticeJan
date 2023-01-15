@@ -3,3 +3,4 @@ Address : Khorlim
 DOB : 28/11/1998
 Education: MCA
 Pincode : 403507
+Area code : 101
