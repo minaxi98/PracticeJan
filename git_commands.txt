@@ -1,2 +1,6 @@
 git init
 git add remote origin url
+git add .
+git status
+git commit -m "msg"
+git push -u origin branch4
